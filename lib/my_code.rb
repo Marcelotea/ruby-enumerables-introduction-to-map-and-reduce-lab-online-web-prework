@@ -1,2 +1,2 @@
 # My Code here....
-expect(map_to_negativize)
+expect(map_to_negativize)[1,3,5]
