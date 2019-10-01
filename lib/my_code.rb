@@ -1,2 +1,2 @@
 # My Code here....
-array(map_to_negativize)[1,3,5]
+array(map_to_negativize)
